@@ -1,0 +1,157 @@
+
+@font-face {
+    font-family: "Brush King";
+    src: url("../fonts/Brush\ King.otf");
+}
+h1 {
+    font-family: "Brush King";
+    width: 70%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    padding: 10px;
+    color: gold;
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+li {
+    font-style: italic;
+    background-color: gold;
+    width: 96%;
+    border: 1px solid #555;
+    border-radius: 10px;
+}
+
+
+li ul li {
+    font-variant: small-caps; 
+    
+}
+
+ h2 {
+    font-family: "Brush King";
+    width: 50%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+ }
+  
+  div{
+    width: 60%;
+    height: 50%;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    background-size: cover;
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/0f/0b/af/0f0baff0a66c270b41dc221f52ee4474.png);
+    background-size:cover;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Brush King";
+    color: rgba(238, 255, 0, 0.973);
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+
+}
+
+.fin {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+.conclusion {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+header {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+nav {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.site {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/71/441/HD-wallpaper-red-pixel-texture-red-background-stylish-art-squares-abstract-texture.jpg);
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.nom {
+    width: 60%;
+    height: 50%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family:"Brush King";
+    -webkit-text-stroke: 0.4px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+    position: relative;
+
+}

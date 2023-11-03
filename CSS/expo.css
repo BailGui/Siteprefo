@@ -1,0 +1,178 @@
+@font-face{  
+    font-family: 'martyric';
+    src: url('../font/martyric-webfont.woff') format('woff'),
+         url('../font/martyric-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{  
+    font-family: 'adidas';
+    src: url('../font/texgyreadventor-bold-webfont.woff2') format('woff2'),
+         url('../font/texgyreadventor-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: url('../font/roboto/robotocondensed-regular-webfont.woff2') format('woff2'),
+         url('../font/roboto/robotocondensed-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    background-image: url(https://i.redd.it/v1j1be6y44m91.png);
+    background-size: cover;
+    margin: 0;
+}
+
+.button{
+    background-color: rgba(159, 51, 51, 0.808);
+    border: none;
+    color: rgb(156, 174, 246);
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'roboto';
+    
+}
+
+.button2{
+    
+    color: rgb(156, 174, 246);
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+}
+
+.button3{
+    
+    color: rgb(156, 174, 246);
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+}
+
+.site{
+    background-color: rgba(159, 51, 51, 0.808);
+    border: none;
+    color: rgb(156, 174, 246);
+    padding: 8px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'roboto';
+
+}
+
+main{
+    column-count: 6;
+    position: absolute;
+    top: 9rem;
+    background-color: rgba(159, 51, 51, 0.808);
+    padding: 3.5rem;
+    display: block;
+    
+}
+
+h1{
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.03px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    font-size: 2rem;
+    color: rgb(240, 221, 113);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 1rem;
+   
+}
+
+h2{
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.01px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    font-size: 1.25rem;
+    color: rgb(240, 221, 113);
+    margin-top: 10px;
+    padding-bottom: 0.5rem;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family: 'roboto';  
+    text-align: justify;
+}
+
+header{
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family: 'roboto';   
+    padding-bottom: 1rem;
+    text-align: justify;
+}
+
+h3{
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.02px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    font-size: 1.4rem;
+    color: rgb(240, 221, 113);
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+}
+
+.nom{
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.7px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    font-size: 25px;
+    color: rgb(240, 221, 113);
+    margin-top: 10px;
+    margin-bottom: 0;
+    
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+}
+
+a:hover{
+    color: rgb(240, 221, 113);
+
+    
+}
+
+.lien{
+    text-decoration: none;
+}
+

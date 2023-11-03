@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'martyric';
+    src: url('../font/martyric-webfont.woff') format('woff'),
+         url('../font/martyric-webfont.woff2') format('woff2')
+    
+}
+
+@font-face {
+    font-family: 'adidas';
+    src: url('../font/texgyreadventor-bold-webfont.woff2') format('woff2'),
+         url('../font/texgyreadventor-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: url('../font/roboto/robotocondensed-regular-webfont.woff2') format('woff2'),
+         url('../font/roboto/robotocondensed-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    background-image: url(https://i.redd.it/v1j1be6y44m91.png);
+    background-size: cover;
+    margin: 0;
+}
+.button{
+    background-color: rgba(159, 51, 51, 0.808);
+    border: none;
+    color: rgb(156, 174, 246);
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'roboto'; 
+    
+}
+
+.button2 {
+    
+    color: rgb(156, 174, 246);
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+    padding-bottom: 3rem;
+   
+}
+
+.button3 {
+    
+    color: rgb(156, 174, 246);
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 3px;
+    border-radius: 4rem;
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    color: gold;
+    
+}
+
+.video {
+
+    column-count: 3;
+    position: relative;
+    margin-top: 0;
+    background-color: rgba(159, 51, 51, 0.808);
+    padding-top: 1rem;
+    padding-left: 8rem;
+    padding-bottom: 3rem;
+    padding-right: 8rem;
+    
+}
+
+h2 {
+    font-family: 'martyric';
+    -webkit-text-stroke: 0.1px;
+    -webkit-text-stroke-color: rgb(58, 87, 248);
+    font-size: medium;
+    color: gold;
+    margin-top: 0;
+    
+}
+
+a:hover{
+    color: rgb(240, 221, 113);
+}
