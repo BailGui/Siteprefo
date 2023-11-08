@@ -96,7 +96,7 @@ h2 {
 
 p {
     color: rgb(255, 255, 255);
-    font-size: small;
+    font-size: 13.8px;
     font-family: 'roboto';  
     text-align: justify;
     margin-top: 0;  
@@ -129,7 +129,7 @@ p {
 
 .interview {
 
-    column-count: 6;
+    column-count: 7;
     position: relative;
     background-color: rgba(159, 51, 51, 0.808);
     padding: 3rem;
