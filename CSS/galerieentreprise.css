@@ -127,11 +127,11 @@ img {
     left: 100%;
     z-index: 10;
     transition: left 0s 0.35s;
-    border-radius: 10px;
+    border-radius: 40px;
 }
 [id^="slide"]:checked + .slide-img {
     left: 0;
     z-index: 100;
     transition: left 0.35s ease-out;
-    border-radius: 10px;
+    border-radius: 35px;
 }
