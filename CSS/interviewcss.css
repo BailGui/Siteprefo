@@ -213,3 +213,15 @@ a:hover{
     font-family: 'roboto';
 }
 
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 5px;
+    padding: 0.2rem;
+    font-family: "roboto";
+    color: white;
+    display: flex;
+    justify-content: right;
+}
+
