@@ -92,7 +92,7 @@ h1 {
 h2 {
     /*permet de régler le style des titres secondaires */
 
-    color: rgb(236, 225, 161); /*couleur des titres secondaires */
+    color: rgba(236, 225, 161, 0.925); /*couleur des titres secondaires */
     font-family: 'roboto'; /*style de typo */
     font-size: small; /*taille de la typo */
     margin-top: 0; /*marge du dessus */
@@ -198,7 +198,7 @@ a:hover{
 .prise {
     /* permet de régler le style des titres de la page entreprise */
 
-    color: rgb(230, 216, 142); /*couleur principal du texte */
+    color: rgba(236, 225, 161, 0.925); /*couleur principal du texte */
     font-family: 'roboto'; /*style de la police */
     font-size: larger; /*taille de la police */
     margin-top: 0; /*marge au dessus du texte */
