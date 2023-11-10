@@ -81,7 +81,7 @@ body {
 h1 {
     /*permet de régler le style du titre principal */
 
-    color: gold; /* couleur princile du titre */
+    color: rgb(236, 225, 161); /* couleur princile du titre */
     font-family: 'roboto'; /*style de typo */
     -webkit-text-stroke: 0.0005rem; /* contour du texte */
     -webkit-text-stroke-color: rgb(58, 87, 248); /*couleur du contour du texte */
@@ -92,9 +92,9 @@ h1 {
 h2 {
     /*permet de régler le style des titres secondaires */
 
-    color: rgb(230, 216, 142); /*couleur des titres secondaires */
+    color: rgb(236, 225, 161); /*couleur des titres secondaires */
     font-family: 'roboto'; /*style de typo */
-    font-size: medium; /*taille de la typo */
+    font-size: small; /*taille de la typo */
     margin-top: 0; /*marge du dessus */
    
 }
@@ -124,7 +124,7 @@ p {
 .intro {
     /* permet de régler le style de l'intro du paragraphe de la conclusion */
 
-    color: rgb(240, 221, 113); /*couleur du texte */
+    color: rgb(236, 225, 161); /*couleur du texte */
     font-size: medium; /*taille de la police */
     font-family: 'roboto';  /*style de la typo */
     text-align: justify; /*permet de remplir entièrement les colonnes */
@@ -134,7 +134,7 @@ p {
 .outro {
     /* permet de régler le style de l'outro du paragraphe de la conclusion */
 
-    color: rgb(240, 221, 113);  /*couleur du texte */
+    color: rgb(236, 225, 161);  /*couleur du texte */
     font-size: medium; /*taille de la police */
     font-family: 'roboto'; /*style de la typo */ 
     text-align: justify;  /*permet de remplir entièrement les colonnes */
@@ -167,7 +167,7 @@ a:hover{
 .titreconclu {
     /*permet de régler le titre de la conclusion */
    
-    color: gold; /*couleur du titre de la conclusion */
+    color: rgb(236, 225, 161); /*couleur du titre de la conclusion */
     font-family: 'roboto'; /*style de la typo */
     -webkit-text-stroke: 0.0005rem; /*grandeur du contour du texte */
     -webkit-text-stroke-color: rgb(58, 87, 248); /*couleur du contour du texte */

@@ -101,3 +101,13 @@ a:hover{
     display: flex; /*système de positionnement */
     justify-content: right; /* positionne le contenu sur la droite de la page */
 }
+
+.moodboard {
+    /* règle le style de l'image du moodboad */
+
+    display: block; /*système de positionnement */
+    margin: auto; /*permet de centrer l'image en milieu de page */
+    margin-top: 30px; /*permet de changer la marge du dessus */
+    width: 1080px; /*règle la largeur de l'image */
+   
+}
