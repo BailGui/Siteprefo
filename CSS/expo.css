@@ -42,7 +42,7 @@ body{
     text-decoration: none; /*enlève le soulignement du texte */
     display: inline-block;  /*dispose les boutons l'un a coté de l'autre */
     font-size: 15px; /* taille de la typo */
-    margin: 4px 3px; /*écart entre chaque bouton */
+    margin: 4px 4px; /*écart entre chaque bouton */
     border-radius: 4rem; /* crée un contour arrondis pour le bouton */
     font-family: 'roboto'; /*style de la typo */
     width: 80px; /*règle la largeur du bouton */

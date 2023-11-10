@@ -60,7 +60,6 @@ body {
     -webkit-text-stroke: 0.1px; /* grandeur du contour de la typo */
     -webkit-text-stroke-color: rgb(58, 87, 248); /* couleur du contour de la typo */
     color: gold; /* couleur de la typo */
-    padding-bottom: 3rem; /*marge en dessous du bouton */
    
 }
 
@@ -72,7 +71,7 @@ body {
     text-decoration: none; /* suppression du soulignement du texte */
     display: inline-block; /* disposition des bouton l'un a coter de l'autre */
     font-size: 20px; /* taille de la police */
-    margin: 4px 3px; /* marge a gauche et a droite du bouton */
+    margin: 4px 4px; /* marge a gauche et a droite du bouton */
     font-family: 'martyric'; /*style de la typo */
     -webkit-text-stroke: 0.1px; /* grandeur du contour de la typo */
     -webkit-text-stroke-color: rgb(58, 87, 248); /* couleur du contour de la typo */
@@ -85,7 +84,7 @@ body {
 
     column-count: 3; /*permet de placer le contenu en colonne */
     position: relative; /*permet de déplacer l'image depuis son emplacement initial*/
-    margin-top: 0; /*aucune marge au dessus */
+    margin-top: 50px; /* marge au dessus */
     background-color: rgba(159, 51, 51, 0.808); /*couleur du background */
     padding-top: 1rem; /*marge au dessus */
     padding-left: 8rem; /*marge sur la gauche du contenu */
