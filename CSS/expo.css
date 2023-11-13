@@ -127,7 +127,7 @@ h2{
     font-family: 'martyric'; /*style de la typo */
     -webkit-text-stroke: 0.01px; /*régle la grandeur du contour du texte */
     -webkit-text-stroke-color: rgb(58, 87, 248); /*règle la couleur du contour */
-    font-size: 1.25rem; /*régle la grandeur de la typo */
+    font-size: 1.5rem; /*régle la grandeur de la typo */
     color: rgb(240, 221, 113); /*couleur principal du texte */
     margin-top: 10px; /*marge au dessus du texte */
     padding-bottom: 0.5rem; /*marge en dessous du texte */
@@ -162,8 +162,8 @@ h3{
     color: rgb(240, 221, 113); /*couleur principal de la typo */
     margin-top: 10px; /*marge au dessus du titre */
     margin-bottom: 0; /* marge en dessous du titre */
-    padding-top: 0.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du haut*/
-    padding-bottom: 0.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du bas*/
+    padding-top: 2.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du haut*/
+    padding-bottom: 2.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du bas*/
 
 }
 

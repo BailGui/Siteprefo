@@ -92,7 +92,7 @@ h1 {
 h2 {
     /*permet de régler le style des titres secondaires */
 
-    color: rgba(236, 225, 161, 0.925); /*couleur des titres secondaires */
+    color:rgb(243, 228, 141); /*couleur des titres secondaires */
     font-family: 'roboto'; /*style de typo */
     font-size: small; /*taille de la typo */
     margin-top: 0; /*marge du dessus */
@@ -124,7 +124,7 @@ p {
 .intro {
     /* permet de régler le style de l'intro du paragraphe de la conclusion */
 
-    color: rgb(236, 225, 161); /*couleur du texte */
+    color: rgb(245, 225, 114); /*couleur du texte */
     font-size: medium; /*taille de la police */
     font-family: 'roboto';  /*style de la typo */
     text-align: justify; /*permet de remplir entièrement les colonnes */
@@ -134,7 +134,7 @@ p {
 .outro {
     /* permet de régler le style de l'outro du paragraphe de la conclusion */
 
-    color: rgb(236, 225, 161);  /*couleur du texte */
+    color: rgb(245, 225, 114);  /*couleur du texte */
     font-size: medium; /*taille de la police */
     font-family: 'roboto'; /*style de la typo */ 
     text-align: justify;  /*permet de remplir entièrement les colonnes */
@@ -146,7 +146,7 @@ p {
 
     column-count: 7; /* nombre des colonnes du contenu principal */
     position: relative; /*positionnement du contenu princial */
-    background-color: rgba(159, 51, 51, 0.808); /*couleur de background du contenu principal */
+    background-color: rgba(2, 21, 128, 0.705); /*couleur de background du contenu principal */
     padding: 3rem; /*marge autour du contenu principal */
 }
 
@@ -160,7 +160,7 @@ a:hover{
     
     column-count: 6; /* nombre des colonnes du contenu principal */
     position: relative; /*positionnement du contenu princial */
-    background-color: rgba(159, 51, 51, 0.808); /*couleur de background du contenu principal */
+    background-color:rgba(2, 21, 128, 0.705); /*couleur de background du contenu principal */
     padding: 6rem; /*marge autour du contenu principal */
 }
 
@@ -180,7 +180,7 @@ a:hover{
 
     column-count: 2; /* nombre des colonnes du contenu principal */
     position: relative; /*positionnement du contenu princial */
-    background-color: rgba(159, 51, 51, 0.808); /*couleur de background du contenu principal */
+    background-color: rgba(2, 21, 128, 0.705); /*couleur de background du contenu principal */
     padding: 3rem; /*marge autour du contenu principal */
 }
 
@@ -198,7 +198,7 @@ a:hover{
 .prise {
     /* permet de régler le style des titres de la page entreprise */
 
-    color: rgba(236, 225, 161, 0.925); /*couleur principal du texte */
+    color:rgb(243, 228, 141); /*couleur principal du texte */
     font-family: 'roboto'; /*style de la police */
     font-size: larger; /*taille de la police */
     margin-top: 0; /*marge au dessus du texte */
