@@ -100,7 +100,7 @@ main{
 
     column-count: 6; /* permet de faire faire des colone avec le contenu */
     position: absolute; /* permet de regler la position du contenu a part du reste */
-    top: 9rem; /* marge supérieur du contenu*/
+    top: 7rem; /* marge supérieur du contenu*/
     background-color: rgba(159, 51, 51, 0.808); /* couleur du background */
     padding: 3.5rem; /*marge interieur autour du texte */
     display: block; /* permet d'occuper toute la largeur de la page */
@@ -117,7 +117,7 @@ h1{
     color: rgb(240, 221, 113); /*couleur de la typo */
     margin-top: 0; /*marge au dessus du texte */
     margin-bottom: 0; /*marge en dessous du texte */
-    padding-bottom: 1rem; /*ajout d'une deuxieme marge en dessous tu texte */
+    padding-bottom: 3rem; /*ajout d'une deuxieme marge en dessous tu texte */
    
 }
 
@@ -127,10 +127,11 @@ h2{
     font-family: 'martyric'; /*style de la typo */
     -webkit-text-stroke: 0.01px; /*régle la grandeur du contour du texte */
     -webkit-text-stroke-color: rgb(58, 87, 248); /*règle la couleur du contour */
-    font-size: 1.5rem; /*régle la grandeur de la typo */
+    font-size: 1.4rem; /*régle la grandeur de la typo */
     color: rgb(240, 221, 113); /*couleur principal du texte */
-    margin-top: 10px; /*marge au dessus du texte */
+    margin-top: 0; /*marge au dessus du texte */
     padding-bottom: 0.5rem; /*marge en dessous du texte */
+    padding-top: 2rem;
 }
 
 p{
@@ -145,7 +146,7 @@ p{
 header{
     /*règle le style de l'intro du texte */
 
-    color: rgb(255, 255, 255); /*règle la couleur de la typo de l'intro */
+    color: rgb(243, 228, 141); /*règle la couleur de la typo de l'intro */
     font-size: medium; /*règle la taille de la police */
     font-family: 'roboto';  /*règle la typo du texte */
     padding-bottom: 1rem; /*marge en dessous du texte */
@@ -163,8 +164,12 @@ h3{
     margin-top: 10px; /*marge au dessus du titre */
     margin-bottom: 0; /* marge en dessous du titre */
     padding-top: 2.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du haut*/
-    padding-bottom: 2.5rem; /* deuxieme marge de contour du texte qui prends en compte la marge du bas*/
+    padding-bottom: 2rem; /* deuxieme marge de contour du texte qui prends en compte la marge du bas*/
 
+}
+
+.conclusion {
+    color: rgb(243, 228, 141);
 }
 
 .nom{
